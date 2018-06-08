@@ -1,0 +1,7 @@
+c:\users\kirill\source\repos\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+c:\users\kirill\source\repos\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+c:\users\kirill\source\repos\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+c:\users\kirill\source\repos\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+c:\users\kirill\source\repos\GZipTest\GZipTest\obj\Debug\GZipTest.csproj.CoreCompileInputs.cache
+c:\users\kirill\source\repos\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+c:\users\kirill\source\repos\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
